@@ -1,0 +1,10 @@
+cd.. - to come 1 level below
+cd foldername to get into the folder
+dir - get all the contents of the folder
+dotnet --version
+dotnet new mvc --name appname
+cd appname
+dotnet build
+donet run
+
+code . (in a non running application)

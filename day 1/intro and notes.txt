@@ -1,0 +1,204 @@
+1. Pre-requisite
+	OOPS
+2. For labs and practicals 
+	Software setup
+		VS Code
+		VS Studio 2019/2022
+		SQL Server with SSMS
+
+either have it installed on ur machine
+or
+cloud lab
+------------------------------------
+Goals 
+	What, Why, where, how and when
+	To use ASP.Net Core
+---
+Expectations
+	be interactive
+
+------------------
+last 15 mins of the session will
+	be QnA
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+			What is the idealogy behing ASP.net core
+
+			This technology is a result of Web Revolution
+
+			1. When was the first time you used internet ? Year --------- 2007
+			2. Why did you use internet in those days - surfing, play games, chatting, socials, email
+			3. Where did you use internet - Home, cyber cafe, schools/universities
+			4. Device ? - Desktop / Laptop 
+			5. Source of internet  - brodband - WiFi
+
+
+		Thus web developers used to create contents accordingly
+			thus development platform was available accordingly - JSP, ASP.net, html, css and JS
+
+-----------------------------------------------------------------------------------------------------------------------------------
+			Revolution - Today
+
+
+			What do you use internet for - Everything
+			Where did you use internet - Everywhere 
+			Device ? - (Desktop / Laptop)  - Phones, tables, Ipads, watch, devise
+				Develope resolution independent contents 
+				Habbits of user has also changed
+					Browser an image - zoom in zoom out
+					Video files - flip the devise from horizon to vertical and reverse
+					Clear the cache again and again - we do not clear history very offten 
+					Hardware has changed 
+
+				
+			Source of internet  - Mobile data - (3G / 4G / LTE) - not static 
+
+		---------------------------
+		Thus developers has to create the web contents accordingly
+			Angular, React, Node - lots of competition
+			Its free
+			Open source
+			cross platform
+
+	-------------------------------------------------------------------------------------------------------------------
+
+			1. Developer needs to develope the contents based on todays need
+			2. ASP.Net framework is not for the same, it is heavy and used to design desktop and laptop screens
+			3. Cloud in Play
+
+	-----------------------------------------------------------------------------------------------
+
+			Thus .net core is introducted to developers
+				ASP.Net MVC Core
+				Entity framwork core
+				Identity Framework core
+				RESTFul standards / Web API 
+
+				based on features like
+				Middleware
+				Services
+				Modular app development platform
+				dependency Injection
+				Integrate Angular / React / Node etcc......
+				based on all the modern standards
+				can do a development using CLI 
+				use VS Code - free and light weight software - cross platform
+
+		------------------------------------------------------------------------------------------------------------
+			First thing - look at the first app 
+				USE CLI  and VS Code
+					to create a new app
+					   build the app 
+					   run the app 
+					   also can debug the app
+					   also can run unit test
+
+	-------------------------------------------------------------------------------------------
+			This is a complete re-written to meet todays demand, also is cloud complaint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
