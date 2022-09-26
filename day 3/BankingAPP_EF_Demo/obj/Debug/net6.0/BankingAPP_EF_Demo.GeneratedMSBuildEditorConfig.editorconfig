@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BankingAPP_EF_Demo
+build_property.RootNamespace = BankingAPP_EF_Demo
+build_property.ProjectDir = C:\Users\hp\Desktop\22092022 - ASP.Net Core 1130-130\asp.netcore-22092022---1130-130\day 3\BankingAPP_EF_Demo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\22092022 - ASP.Net Core 1130-130\asp.netcore-22092022---1130-130\day 3\BankingAPP_EF_Demo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/branch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnJhbmNoXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/branch/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnJhbmNoXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/branch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnJhbmNoXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/branch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnJhbmNoXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/branch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYnJhbmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Desktop/22092022 - ASP.Net Core 1130-130/asp.netcore-22092022---1130-130/day 3/BankingAPP_EF_Demo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lz3xte84mo

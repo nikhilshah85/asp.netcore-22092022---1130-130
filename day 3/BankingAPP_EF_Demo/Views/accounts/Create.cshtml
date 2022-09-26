@@ -1,0 +1,52 @@
+﻿@model BankingAPP_EF_Demo.Models.EF.AccountsInfo
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>AccountsInfo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AccNo" class="control-label"></label>
+                <input asp-for="AccNo" class="form-control" />
+                <span asp-validation-for="AccNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccName" class="control-label"></label>
+                <input asp-for="AccName" class="form-control" />
+                <span asp-validation-for="AccName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccType" class="control-label"></label>
+                <input asp-for="AccType" class="form-control" />
+                <span asp-validation-for="AccType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccBalance" class="control-label"></label>
+                <input asp-for="AccBalance" class="form-control" />
+                <span asp-validation-for="AccBalance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AccBranch" class="control-label"></label>
+                <select asp-for="AccBranch" class ="form-control" asp-items="ViewBag.AccBranch"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

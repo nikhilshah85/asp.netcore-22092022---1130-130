@@ -1,0 +1,41 @@
+1. create a database with tables and sample data 
+2. createa a new asp.net core mvc app
+3. Install EF core Nuget packages (4 - in a seqence)
+	Microsoft.EntityFrameworkCore.Design
+	Microsoft.EntityFrameworkCore.Tools
+	Microsoft.EntityFrameworkCore
+	Microsoft.EntityFrameworkCore.SqlServer
+
+4. From Tools -> Nuget package -> Nuget package manager console
+	Scaffold-DbContext 
+
+Scaffold-DbContext "Server=WIN8\NIKHILINSTANCE;database=bankingMangementDB;integrated security=true" -OutputDir Models\EF -Provider Microsoft.EntityFrameworkCore.SqlServer
+
+5. Right click controller - add new controller -> MVC Controller with views using EF
+
+6. choose the model file and dbcontecxt from models -> EF folder
+
+7. this will craete a controller and view with CRUD operations
+
+8. in the controller file, it used DI by default, but we do not want to configure it further, thus
+
+	  private readonly bankingMangementDBContext _context = new bankingMangementDBContext();
+
+	instanstiate new object of dbcontext and commnet the constructor
+
+9. check the view folder, build the application
+
+10. repeat the step for other tables, like accountsinfo in our project
+
+
+11. update hte layout page
+
+	  </li>
+
+                            <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="branch" asp-action="index">Branch</a>
+                        </li>
+
+                            <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="accounts" asp-action="index">Accounts</a>
+                        </li>

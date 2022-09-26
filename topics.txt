@@ -1,0 +1,12 @@
+1. ASP.net Core MVC with command line
+	dotnet new mvc --name empAPP
+	dotnet build
+	dotnet run
+	create, build, run
+2. ASP.Net Core WebAPI (with Visual 2022)
+	dotnet new webapi --name productsAPI
+	dotnet build
+	dotnet run
+	
+3. .net Core - EF Core (it uses ORM framework - pattern - open source - 
+	Object relational mapping
