@@ -1,0 +1,16 @@
+ASP.Net core  
+	a. MVC
+	b. WebAPI
+	c. EF Core 
+		code first approach
+		database first approach
+	d. Identity framework (content security)
+		user needs to register and get username and password
+			instead use google, facebook, twitter, ms etc..
+			oAuth
+
+		you will experience
+			services 
+			middleware
+----------------------------------------------------------------------------------
+		you also need to store username, password (database)
