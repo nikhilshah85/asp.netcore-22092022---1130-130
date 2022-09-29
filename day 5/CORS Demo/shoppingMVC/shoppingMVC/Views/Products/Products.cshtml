@@ -1,0 +1,25 @@
+﻿
+
+<script>
+    function showProducts()
+    {
+        fetch('https://localhost:7109/api/Products').then(response => response.json())
+                                                    .then(result =>{
+                                                        alert('Success');
+                                                        console.log(result);
+                                                    })
+                                                    .catch(err =>{
+                                                        alert('Error !!!');
+                                                        console.log(err);
+                                                    })
+    }
+</script>
+
+
+
+
+
+
+
+<button class="btn btn-primary" onclick="showProducts()"> Show Products</button>
+<table class="table table-bordered"></table>

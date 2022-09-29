@@ -1,0 +1,6 @@
+1. Createa a new ASP.net web api app
+2. install 4 nuget packages for EF and SQL Server
+3. From tools execute scaffols-dbContect " connection string" -outputDir Model\EF -Provider Microsoft.EntityFrameworkCore.SqlServer
+4. create a API controller from the above classes 
+5. remove DI which is configured by default
+6 test the app on swagger

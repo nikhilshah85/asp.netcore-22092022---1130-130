@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdm1sSiPPvtg7cC8Ma45jnjQn5NlR9RkaldYqC/dBlAlGYv8iZaXCYzEX08aN5uJno3zAHAxtgLVX/gZgkX4gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trainer\\Desktop\\CORS Demo\\shoppingMVC\\shoppingMVC\\shoppingMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trainer\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
